@@ -11,9 +11,9 @@ Môi trường **Timed Gates GridWorld** được thiết kế chuẩn [Gymnasiu
 4. **Vé Pass phá cổng:** giúp agent vượt qua cổng mà không bị phạt mất điểm.
 
 Ngoài ra project còn sử dụng **7 thuật toán Tabular RL** để so sánh đối chiếu:
-* *Dynamic Programming:** Value Iteration, Policy Iteration, Truncated Policy Iteration ($k=5$).
-* *Monte Carlo Methods:** On-Policy First-Visit MC $\varepsilon$-Greedy.
-* *Temporal-Difference Learning:** 1-step SARSA (On-Policy), Q-Learning (Off-Policy), và 3-step SARSA (Multi-step TD).
+* *Dynamic Programming:* Value Iteration, Policy Iteration, Truncated Policy Iteration ($k=5$).
+* *Monte Carlo Methods:* On-Policy First-Visit MC $\varepsilon$-Greedy.
+* *Temporal-Difference Learning:* 1-step SARSA (On-Policy), Q-Learning (Off-Policy), và 3-step SARSA (Multi-step TD).
 
 ---
 
