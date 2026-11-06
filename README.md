@@ -1,4 +1,4 @@
-# Timed Gates GridWorld: Tabular Reinforcement Learning Benchmark
+# Timed Gates / Traffic-Light Grid
 
 ## 📌 Giới thiệu đề tài
 
